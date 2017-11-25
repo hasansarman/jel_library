@@ -1,6 +1,6 @@
 # JEL LIBRARY
 Java Easy License Library
-
+Main Applications and everything resides in https://github.com/hasansarman/jel
 Use This JAR File to implement and read licence files in your applications.
 Download Jar and helper.
 
